@@ -16,9 +16,16 @@ header {
 }
 
 .vendor-photo {
-	max-width: 200px;
-	max-height: 150px;
-	padding-right: 20px;
+	max-height: 250px;
+}
+
+.photo {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.red-text {
+  color: #DF0000;
 }
 
 .vendor-book-button {
@@ -26,7 +33,7 @@ header {
 }
 
 .content-pane {
-  padding: 40px;
+  padding-left: 40px;
 }
 
 .fa-stack[data-count]:after{
